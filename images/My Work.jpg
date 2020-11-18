@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<!-- saved from url=(0046)https://sultonbekairways.github.io/cv/#history -->
+<html lang="ru"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>My Work</title>
+  <link rel="stylesheet" href="./My Work_files/all.min.css">
+  <link rel="stylesheet" href="./My Work_files/bootstrap.css">
+  <link rel="stylesheet" href="./My Work_files/style.css">
+</head>
+
+<body>
+
+  <header class="header d-flex flex-column min-vh-100">
+
+    <div class="header__nav">
+      <div class="container">
+        <nav class="navbar-expand-md d-flex flex-wrap align-items-center justify-content-between">
+          <a class="logo" href="https://sultonbekairways.github.io/cv/#"><span class="logo__text">NAZAROV</span> SULTONBEK</a>
+          <button class="navbar-toggler header__nav-button" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="far fa-bars"></span>
+          </button>
+
+          <div class="collapse navbar-collapse flex-grow-0" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item">
+                <a class="header__nav-link" href="https://sultonbekairways.github.io/cv/#history">история</a>
+              </li>
+              <li class="nav-item">
+                <a class="header__nav-link" href="https://sultonbekairways.github.io/cv/#works">работы</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="header__nav-link" href="https://sultonbekairways.github.io/cv/#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  контакты
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="tel:+998909979179">+ 998 90 997 91 79</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="mailto:mymail@mail.my">kingsulton45@gmail.com</a>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </div>
+
+    <div class="header__text flex-grow-1 d-flex flex-column justify-content-end">
+      <div class="container">
+        <h1 class="header__text-title text-uppercase text-center">портфолио</h1>
+      </div>
+    </div>
+
+  </header>
+
+  <main class="main">
+
+    <section class="title" id="history">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12 col-lg-10 d-flex flex-column align-items-center">
+            <h2 class="title__heading">мои качества</h2>
+            <p class="title__description">Прогрессирующий Front-end developer. Свободно разговариваю на 3х
+              языках: английский, узбекский, русский. Положительные качества: ответственный, пунктуальный (в том чесле с
+              дедлайнами), флексибл (быстро адаптируюсь в новом месте, умею работать в команде), имею хорошие
+              аналитические способности. Минусы: время(обучаюсь в университете).</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="main__slider">
+      <div class="container">
+        <div class="bd-example">
+          <div id="carouselExampleCaptions" class="carousel slide d-flex align-items-center" data-ride="carousel">
+
+            <a class="col-1 d-none d-md-flex" href="https://sultonbekairways.github.io/cv/#carouselExampleCaptions" role="button" data-slide="prev">
+              <span class="fad fa-angle-left main__slider-button"></span>
+            </a>
+
+            <div class="carousel-inner">
+
+              <div class="carousel-item">
+                <div class="d-flex flex-wrap">
+                  <div class="main__slider-images col-12 col-lg-6 col-xl-4">
+                    <img src="./My Work_files/IELTS.jpg" class="w-100 h-100 main__slider-img" alt="">
+                  </div>
+                  <section class="main__slider-text col-12 col-lg-6 col-xl-8">
+                    <h3 class="main__slider-title">
+                      <span class="main__slider-extra">сертификат </span>IELTS
+                    </h3>
+                    <p class="main__slider-description main__slider-deviders">
+                      Overall: 7.0
+                    </p>
+                    <p class="main__slider-description main__slider-deviders">
+                      Listening: 7.5 Reading: 8.0 Writing: 6.0 Speaking: 5.5
+                    </p>
+                    <p class="main__slider-description">
+                      Good knowledge of English. I can support any conversation.
+                    </p>
+                  </section>
+                </div>
+              </div>
+
+              <div class="carousel-item">
+                <div class="d-flex flex-wrap flex-row-reverse">
+                  <div class="main__slider-images col-12 col-lg-6 col-xl-4">
+                    <img src="./My Work_files/study.png" class="w-100 h-100 main__slider-img" alt="">
+                  </div>
+                  <section class="main__slider-text col-12 col-lg-6 col-xl-8">
+                    <h3 class="main__slider-title">
+                      <span class="main__slider-extra">обучение в </span>PROWEB
+                    </h3>
+                    <p class="main__slider-description">
+                      Работаю более год как Front-end разработчик и преподователь в школе PROWEB.
+                    </p>
+                  </section>
+                </div>
+              </div>
+
+              <div class="carousel-item active">
+                <div class="d-flex flex-wrap">
+                  <div class="main__slider-images col-12 col-lg-6 col-xl-4">
+                    <img src="./My Work_files/tatu.jpg" class="w-100 h-100 main__slider-img" alt="">
+                  </div>
+                  <section class="main__slider-text col-12 col-lg-6 col-xl-8">
+                    <h3 class="main__slider-title">
+                      <span class="main__slider-extra">университет </span>tuit
+                    </h3>
+                    <p class="main__slider-description">Обучаюсь на 3-ом курсе в университете Информационных Технологий
+                      в Ташкенте. Факультет программного инженеринга (очная обучение).</p>
+                  </section>
+                </div>
+              </div>
+            </div>
+
+            <a class="col-1 d-none d-md-flex justify-content-end" href="https://sultonbekairways.github.io/cv/#carouselExampleCaptions" role="button" data-slide="next">
+              <span class="fad fa-angle-right main__slider-button"></span>
+            </a>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <section class="title" id="works">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12 col-lg-10 d-flex flex-column align-items-center">
+            <h2 class="title__heading">Работы</h2>
+            <p class="title__description text-center">Ниже представлены мои работы.
+              Вы можете просмотреть их кликнув на кнопку 'ПОДРОБНЕЕ'.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="main__tabs">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12 col-lg-6">
+            <ul class="nav justify-content-between" role="tablist" id="main-tabs">
+              <li class="nav-item">
+                <a href="https://sultonbekairways.github.io/cv/#proweb" class="main__tabs-link active" data-toggle="tab">proweb</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://sultonbekairways.github.io/cv/#courses" class="main__tabs-link " data-toggle="tab">courses</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://sultonbekairways.github.io/cv/#food" class="main__tabs-link " data-toggle="tab">Food100</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://sultonbekairways.github.io/cv/#todoList" class="main__tabs-link " data-toggle="tab">TodoList</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://sultonbekairways.github.io/cv/#macintosh" class="main__tabs-link " data-toggle="tab">macintosh</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="tab-content main__tabs-content" id="main-tabs-content">
+        <div class="tab-pane fade show active" id="proweb" role="tabpanel">
+          <div class="container-fluid">
+            <div class="row justify-content-center">
+              <div class="col-12 col-md-6">
+                <img src="./My Work_files/proweb.jpg" alt="" class="main__tabs-img w-100 h-100">
+              </div>
+              <div class="col-11 col-md-6">
+                <div class="main__tabs-info d-flex flex-column justify-content-between">
+                  <div>
+                    <h3 class="main__tabs-title">Сайт Proweb.uz</h3>
+                    <p class="main__tabs-description">На данный момент вношу правки. Верстал некоторые страницы.</p>
+                  </div>
+                  <a href="https://proweb.uz/" class="main__tabs-button">подробнее</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane fade " id="courses" role="tabpanel">
+          <div class="container-fluid">
+            <div class="row justify-content-center">
+              <div class="col-12 col-md-6">
+                <img src="./My Work_files/nodejs.jpg" alt="" class="main__tabs-img w-100 h-100">
+              </div>
+              <div class="col-11 col-md-6">
+                <div class="main__tabs-info d-flex flex-column justify-content-between">
+                  <div>
+                    <h3 class="main__tabs-title">Собственный проект на Node.js</h3>
+                    <p class="main__tabs-description">Изучаю Back-end. Решил создать свой магазин курсов. Проект уже рабочий можно опробовать, пока что нет транзакций.</p>
+                  </div>
+                  <a href="https://cryptic-wildwood-14346.herokuapp.com/" class="main__tabs-button">подробнее</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane fade " id="food" role="tabpanel">
+          <div class="container-fluid">
+            <div class="row justify-content-center">
+              <div class="col-12 col-md-6">
+                <img src="./My Work_files/food100.jpg" alt="" class="main__tabs-img w-100 h-100">
+              </div>
+              <div class="col-11 col-md-6">
+                <div class="main__tabs-info d-flex flex-column justify-content-between">
+                  <div>
+                    <h3 class="main__tabs-title">Food100</h3>
+                    <p class="main__tabs-description">Один из моих начальных разработок на javascript</p>
+                  </div>
+                  <a href="https://sultonbekairways.github.io/FOOD100/" class="main__tabs-button">подробнее</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane fade " id="todoList" role="tabpanel">
+          <div class="container-fluid">
+            <div class="row justify-content-center">
+              <div class="col-12 col-md-6">
+                <img src="./My Work_files/todolist.jpg" alt="" class="main__tabs-img w-100 h-100">
+              </div>
+              <div class="col-11 col-md-6">
+                <div class="main__tabs-info d-flex flex-column justify-content-between">
+                  <div>
+                    <h3 class="main__tabs-title">TodoList</h3>
+                    <p class="main__tabs-description">Один из моих начальных разработок на javascript</p>
+                  </div>
+                  <a href="https://sultonbekairways.github.io/todoList/" class="main__tabs-button">подробнее</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane fade " id="macintosh" role="tabpanel">
+          <div class="container-fluid">
+            <div class="row justify-content-center">
+              <div class="col-12 col-md-6">
+                <img src="./My Work_files/macintosh.JPG" alt="" class="main__tabs-img w-100 h-100">
+              </div>
+              <div class="col-11 col-md-6">
+                <div class="main__tabs-info d-flex flex-column justify-content-between">
+                  <div>
+                    <h3 class="main__tabs-title">Макет MACINTOSH</h3>
+                    <p class="main__tabs-description">Многостраничная верстка вместе с
+                      адаптацией и Bootstrap4 компонентами.</p>
+                  </div>
+                  <a href="https://sultonbekairways.github.io/Macintosh-design/" class="main__tabs-button">подробнее</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <section class="title">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12 col-lg-10 d-flex flex-column align-items-center">
+            <h2 class="title__heading">возможности</h2>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="main__accordion">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12 col-md-10 col-lg-8">
+            <div class="accordion" id="ability">
+              <div class="main__accordion-item">
+                <div class="main__accordion-header">
+                  <button type="button" class="main__accordion-button d-flex align-items-center w-100" data-toggle="collapse" data-target="#html">
+                    <span class="fab fa-html5 main__accordion-icon"></span>html5</button>
+                </div>
+                <div class="collapse show" id="html" data-parent="#ability">
+                  <div class="main__accordion-body">Тут в принцепе ничего сложного, работаю с ним без каких либо
+                    сложностей. Применяю Бем метадалогию.</div>
+                </div>
+              </div>
+              <div class="main__accordion-item">
+                <div class="main__accordion-header">
+                  <button type="button" class="main__accordion-button d-flex align-items-center w-100 collapsed" data-toggle="collapse" data-target="#css">
+                    <span class="fab fa-css3-alt main__accordion-icon"></span>CSS3 , &nbsp; <span class="fab fa-sass main__accordion-icon"></span>SCSS</button>
+                </div>
+                <div class="collapse" id="css" data-parent="#ability">
+                  <div class="main__accordion-body ">Обожаю возиться с ним и много люблю эксперементировать. Также,
+                    работал с scss .</div>
+                </div>
+              </div>
+              <div class="main__accordion-item">
+                <div class="main__accordion-header">
+                  <button type="button" class="main__accordion-button d-flex align-items-center w-100 collapsed" data-toggle="collapse" data-target="#js">
+                    <span class="fab fa-js-square main__accordion-icon"></span>js , &nbsp;jquery</button>
+                </div>
+                <div class="collapse" id="js" data-parent="#ability">
+                  <div class="main__accordion-body ">На данный момент мой любимый язык javascript. Чего я в нём только
+                    не поведал) ...</div>
+                </div>
+              </div>
+              <div class="main__accordion-item">
+                <div class="main__accordion-header">
+                  <button type="button" class="main__accordion-button d-flex align-items-center w-100 collapsed" data-toggle="collapse" data-target="#bootstrap">
+                    <span class="fab fa-bootstrap main__accordion-icon"></span>bootstrap4</button>
+                </div>
+                <div class="collapse" id="bootstrap" data-parent="#ability">
+                  <div class="main__accordion-body ">Большой опыть работы с сеткой и адаптивной вёрсткой вместе с
+                    системой flex-box. Частое использование компонентов (карусель, табы, аккардионы и тд..) в проектах.
+                  </div>
+                </div>
+              </div>
+              <div class="main__accordion-item">
+                <div class="main__accordion-header">
+                  <button type="button" class="main__accordion-button d-flex align-items-center w-100 collapsed" data-toggle="collapse" data-target="#git">
+                    <span class="fab fa-git-alt main__accordion-icon"></span>GIT, AGILE, SCRUM</button>
+                </div>
+                <div class="collapse" id="git" data-parent="#ability">
+                  <div class="main__accordion-body ">Имею понятие как работают инженеры над проектом, так что с могу
+                    работать в команде на GITа. На данный момент работал в связке только с одним программистом на гита.
+                  </div>
+                </div>
+              </div>
+              <div class="main__accordion-item">
+                <div class="main__accordion-header">
+                  <button type="button" class="main__accordion-button d-flex align-items-center w-100 collapsed" data-toggle="collapse" data-target="#design">
+                    <span class="fab fa-adobe main__accordion-icon"></span>PHOTOSHOP, &nbsp; <span class="fab fa-figma main__accordion-icon"></span> FIGMA</button>
+                </div>
+                <div class="collapse" id="design" data-parent="#ability">
+                  <div class="main__accordion-body ">Долгое время верстаю макеты с помощью этих программ</div>
+                </div>
+              </div>
+              <div class="main__accordion-item">
+                <div class="main__accordion-header">
+                  <button type="button" class="main__accordion-button d-flex align-items-center w-100 collapsed" data-toggle="collapse" data-target="#study">
+                    <span class="fab fa-vuejs main__accordion-icon"></span>Vue.js, &nbsp; <span class="fab fa-node-js main__accordion-icon"></span> Node.js</button>
+                </div>
+                <div class="collapse" id="study" data-parent="#ability">
+                  <div class="main__accordion-body ">На стадии обучения. На верху есть работа выполненная на чистом
+                    Node.js</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <footer class="footer">
+
+    <div class="d-flex flex-column align-items-center">
+      <a href="https://sultonbekairways.github.io/cv/#" class="logo"><span class="logo__text">NAZAROV</span> SULTONBEK</a>
+      <nav class="footer__nav">
+        <ul class="d-flex flex-column flex-sm-row footer__nav-list">
+          <li class="footer__nav-li"><a href="https://sultonbekairways.github.io/cv/#history" class="footer__nav-link">история</a></li>
+          <li class="footer__nav-li"><a href="https://sultonbekairways.github.io/cv/#works" class="footer__nav-link">работы</a></li>
+        </ul>
+      </nav>
+      <ul class="footer__nav-contact d-flex flex-column flex-sm-row">
+        <li class="footer__nav-contact-li">
+          <a href="tel:998909979179" class="footer__nav-contact-link">+ 998 90 997 91 79</a>
+        </li>
+        <li class="footer__nav-contact-li">
+          <a href="mailto:kingsulton45@gmail.com" class="footer__nav-contact-link">Kingsulton45@gmail.com</a>
+        </li>
+      </ul>
+    </div>
+
+  </footer>
+
+
+
+  <script src="./My Work_files/jquery.js.Без названия"></script>
+  <script src="./My Work_files/popper.js.Без названия"></script>
+  <script src="./My Work_files/bootstrap.min.js.Без названия"></script>
+
+
+</body></html>
